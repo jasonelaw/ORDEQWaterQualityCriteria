@@ -1,0 +1,209 @@
+analyte,dissolved,hardness,toxicity,table,limit
+cadmium,total,25,chronic,table33a,0.096894269
+cadmium ,total,25,chronic,table20,0.381922068
+chromium ,total,25,chronic,table33a,27.68966671
+chromium  ,total,25,chronic,table20,66.50381408
+copper,total,25,chronic,table33a,2.853451723
+copper ,total,25,chronic,table20,3.616582041
+lead,total,25,chronic,table33a,0.544781177
+nickel,total,25,chronic,table33a,16.1443307
+nickel ,total,25,chronic,table20,48.79700548
+silver,total,25,chronic,table33a,
+silver ,total,25,chronic,table20,
+zinc,total,25,chronic,table33a,37.01611974
+zinc ,total,25,chronic,table20,32.74510504
+cadmium,total,50,chronic,table33a,0.161931454
+cadmium ,total,50,chronic,table20,0.658178218
+chromium ,total,50,chronic,table33a,48.84963182
+chromium  ,total,50,chronic,table20,117.3248803
+copper,total,50,chronic,table33a,5.159417359
+copper ,total,50,chronic,table20,6.539257704
+lead,total,50,chronic,table33a,1.316537634
+nickel,total,50,chronic,table33a,29.01959997
+nickel ,total,50,chronic,table20,87.71311767
+silver,total,50,chronic,table33a,
+silver ,total,50,chronic,table20,
+zinc,total,50,chronic,table33a,66.59683757
+zinc ,total,50,chronic,table20,58.91272388
+cadmium,total,75,chronic,table33a,0.218674041
+cadmium ,total,75,chronic,table20,0.904920365
+chromium ,total,75,chronic,table33a,68.08948289
+chromium  ,total,75,chronic,table20,163.5343018
+copper,total,75,chronic,table33a,7.295761718
+copper ,total,75,chronic,table20,9.246948387
+lead,total,75,chronic,table33a,2.205959074
+nickel,total,75,chronic,table33a,40.89447401
+nickel ,total,75,chronic,table20,123.6054878
+silver,total,75,chronic,table33a,
+silver ,total,75,chronic,table20,
+zinc,total,75,chronic,table33a,93.89786778
+zinc ,total,75,chronic,table20,83.0636913
+cadmium,total,100,chronic,table33a,0.270622773
+cadmium ,total,100,chronic,table20,1.134259063
+chromium ,total,100,chronic,table33a,86.17967684
+chromium  ,total,100,chronic,table20,206.9825277
+copper,total,100,chronic,table33a,9.328907606
+copper ,total,100,chronic,table20,11.82384108
+lead,total,100,chronic,table33a,3.181591829
+nickel,total,100,chronic,table33a,52.16302848
+nickel ,total,100,chronic,table20,157.6652284
+silver,total,100,chronic,table33a,
+silver ,total,100,chronic,table20,
+zinc,total,100,chronic,table33a,119.8164153
+zinc ,total,100,chronic,table20,105.9916904
+cadmium,dissolved,25,chronic,table33a,0.093696824
+cadmium ,dissolved,25,chronic,table20,0.369318897
+chromium ,dissolved,25,chronic,table33a,23.81311337
+chromium  ,dissolved,25,chronic,table20,57.19328011
+copper,dissolved,25,chronic,table33a,2.739313654
+copper ,dissolved,25,chronic,table20,3.47191876
+lead,dissolved,25,chronic,table33a,0.540968344
+nickel,dissolved,25,chronic,table33a,16.09589771
+nickel ,dissolved,25,chronic,table20,48.65061446
+silver,dissolved,25,chronic,table33a,
+silver ,dissolved,25,chronic,table20,
+zinc,dissolved,25,chronic,table33a,36.49789406
+zinc ,dissolved,25,chronic,table20,32.28667357
+cadmium,dissolved,50,chronic,table33a,0.151891831
+cadmium ,dissolved,50,chronic,table20,0.617371683
+chromium ,dissolved,50,chronic,table33a,42.01068336
+chromium  ,dissolved,50,chronic,table20,100.8993971
+copper,dissolved,50,chronic,table33a,4.953040664
+copper ,dissolved,50,chronic,table20,6.277687396
+lead,dissolved,50,chronic,table33a,1.174353286
+nickel,dissolved,50,chronic,table33a,28.93254117
+nickel ,dissolved,50,chronic,table20,87.44997832
+silver,dissolved,50,chronic,table33a,
+silver ,dissolved,50,chronic,table20,
+zinc,dissolved,50,chronic,table33a,65.66448184
+zinc ,dissolved,50,chronic,table20,58.08794575
+cadmium,dissolved,75,chronic,table33a,0.201406868
+cadmium ,dissolved,75,chronic,table20,0.833465077
+chromium ,dissolved,75,chronic,table33a,58.55695529
+chromium  ,dissolved,75,chronic,table20,140.6394995
+copper,dissolved,75,chronic,table33a,7.00393125
+copper ,dissolved,75,chronic,table20,8.877070452
+lead,dissolved,75,chronic,table33a,1.837387811
+nickel,dissolved,75,chronic,table33a,40.77179058
+nickel ,dissolved,75,chronic,table20,123.2346714
+silver,dissolved,75,chronic,table33a,
+silver ,dissolved,75,chronic,table20,
+zinc,dissolved,75,chronic,table33a,92.58329763
+zinc ,dissolved,75,chronic,table20,81.90079962
+cadmium,dissolved,100,chronic,table33a,0.245996341
+cadmium ,dissolved,100,chronic,table20,1.031042498
+chromium ,dissolved,100,chronic,table33a,74.11452208
+chromium  ,dissolved,100,chronic,table20,178.0049738
+copper,dissolved,100,chronic,table33a,8.955751301
+copper ,dissolved,100,chronic,table20,11.35088744
+lead,dissolved,100,chronic,table33a,2.516643724
+nickel,dissolved,100,chronic,table33a,52.0065394
+nickel ,dissolved,100,chronic,table20,157.1922327
+silver,dissolved,100,chronic,table33a,
+silver ,dissolved,100,chronic,table20,
+zinc,dissolved,100,chronic,table33a,118.1389855
+zinc ,dissolved,100,chronic,table20,104.5078067
+cadmium,total,25,acute,table33a,0.521163829
+cadmium ,total,25,acute,table20,0.821101892
+chromium ,total,25,acute,table33a,579.3224903
+chromium  ,total,25,acute,table20,557.9443915
+copper,total,25,acute,table33a,3.791739187
+copper ,total,25,acute,table20,4.801002749
+lead,total,25,acute,table33a,13.98001661
+nickel,total,25,acute,table33a,145.2082542
+nickel ,total,25,acute,table20,438.9427295
+silver,total,25,acute,table33a,0.348703398
+silver ,total,25,acute,table20,0.373987247
+zinc,total,25,acute,table33a,37.01611974
+zinc ,total,25,acute,table20,36.15276695
+cadmium,total,50,acute,table33a,1.054390197
+cadmium ,total,50,acute,table20,1.794563739
+chromium ,total,50,acute,table33a,1022.030733
+chromium  ,total,50,acute,table20,984.31586
+copper,total,50,acute,table33a,7.285660314
+copper ,total,50,acute,table20,9.224915922
+lead,total,50,acute,table33a,33.78460705
+nickel,total,50,acute,table33a,261.0133258
+nickel ,total,50,acute,table20,789.0040568
+silver,total,50,acute,table33a,1.148755944
+silver ,total,50,acute,table20,1.232050149
+zinc,total,50,acute,table33a,66.59683757
+zinc ,total,50,acute,table20,65.04355305
+cadmium,total,75,acute,table33a,1.59226641
+cadmium ,total,75,acute,table20,2.835240007
+chromium ,total,75,acute,table33a,1424.566399
+chromium  ,total,75,acute,table20,1371.997197
+copper,total,75,acute,table33a,10.67534952
+copper ,total,75,acute,table20,13.51685332
+lead,total,75,acute,table33a,56.60868216
+nickel,total,75,acute,table33a,367.820462
+nickel ,total,75,acute,table20,1111.865978
+silver,total,75,acute,table33a,2.307303566
+silver ,total,75,acute,table20,2.474601951
+zinc,total,75,acute,table33a,93.89786778
+zinc ,total,75,acute,table20,91.70782228
+cadmium,total,100,acute,table33a,2.133184665
+cadmium ,total,100,acute,table20,3.922118611
+chromium ,total,100,acute,table33a,1803.048969
+chromium  ,total,100,acute,table20,1736.513041
+copper,total,100,acute,table33a,13.99907631
+copper ,total,100,acute,table20,17.72527078
+lead,total,100,acute,table33a,81.64508705
+nickel,total,100,acute,table33a,469.1741293
+nickel ,total,100,acute,table20,1418.242882
+silver,total,100,acute,table33a,3.784420307
+silver ,total,100,acute,table20,4.058821741
+zinc,total,100,acute,table33a,119.8164153
+zinc ,total,100,acute,table20,117.0218534
+cadmium,dissolved,25,acute,table33a,0.522206507
+cadmium ,dissolved,25,acute,table20,0.822744649
+chromium ,dissolved,25,acute,table33a,183.0659069
+chromium  ,dissolved,25,acute,table20,176.3104277
+copper,dissolved,25,acute,table33a,3.640069619
+copper ,dissolved,25,acute,table20,4.608962639
+lead,dissolved,25,acute,table33a,13.88217279
+nickel,dissolved,25,acute,table33a,144.9178377
+nickel ,dissolved,25,acute,table20,438.064844
+silver,dissolved,25,acute,table33a,0.296397888
+silver ,dissolved,25,acute,table20,0.31788916
+zinc,dissolved,25,acute,table33a,36.20176511
+zinc ,dissolved,25,acute,table20,35.35740607
+cadmium,dissolved,50,acute,table33a,1.025922486
+cadmium ,dissolved,50,acute,table20,1.746111921
+chromium ,dissolved,50,acute,table33a,322.9617115
+chromium  ,dissolved,50,acute,table20,311.0438117
+copper,dissolved,50,acute,table33a,6.994233901
+copper ,dissolved,50,acute,table20,8.855919285
+lead,dissolved,50,acute,table33a,30.13591353
+nickel,dissolved,50,acute,table33a,260.4912991
+nickel ,dissolved,50,acute,table20,787.4260487
+silver,dissolved,50,acute,table33a,0.976442553
+silver ,dissolved,50,acute,table20,1.047242626
+zinc,dissolved,50,acute,table33a,65.13170714
+zinc ,dissolved,50,acute,table20,63.61259489
+cadmium,dissolved,75,acute,table33a,1.522265494
+cadmium ,dissolved,75,acute,table20,2.710594158
+chromium ,dissolved,75,acute,table33a,450.1629821
+chromium  ,dissolved,75,acute,table20,433.5511141
+copper,dissolved,75,acute,table33a,10.24833554
+copper ,dissolved,75,acute,table20,12.97617918
+lead,dissolved,75,acute,table33a,47.15051328
+nickel,dissolved,75,acute,table33a,367.0848211
+nickel ,dissolved,75,acute,table20,1109.642246
+silver,dissolved,75,acute,table33a,1.961208031
+silver ,dissolved,75,acute,table20,2.103411659
+zinc,dissolved,75,acute,table33a,91.83211469
+zinc ,dissolved,75,acute,table20,89.69025019
+cadmium,dissolved,100,acute,table33a,2.013728222
+cadmium ,dissolved,100,acute,table20,3.702483459
+chromium ,dissolved,100,acute,table33a,569.7634741
+chromium  ,dissolved,100,acute,table20,548.7381211
+copper,dissolved,100,acute,table33a,13.43911325
+copper ,dissolved,100,acute,table20,17.01625995
+lead,dissolved,100,acute,table33a,64.58138158
+nickel,dissolved,100,acute,table33a,468.235781
+nickel ,dissolved,100,acute,table20,1415.406396
+silver,dissolved,100,acute,table33a,3.216757261
+silver ,dissolved,100,acute,table20,3.44999848
+zinc,dissolved,100,acute,table33a,117.1804541
+zinc ,dissolved,100,acute,table20,114.4473726
