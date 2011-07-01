@@ -29,5 +29,4 @@ Jason Law <jason.law@portlandoregon.gov
 \references{
 See Oregon DEQ web site: \url{http://www.deq.state.or.us/wq/standards/toxics.htm}
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
 \keyword{ package }
