@@ -2,7 +2,7 @@
 \alias{add.metal.criteria}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+A function to calculate metals criteria for water quality data
 }
 \description{
   A function to calculate metals criteria for water quality data in long format, 
