@@ -37,7 +37,7 @@ test.add.metal.criteria <- function(){
   limits$dissolved <- as.factor(grepl('dissolved', limits$analyte))
   levels(limits$dissolved) <- list('dissolved' = 'TRUE', 'total' = 'FALSE')
   limits$analyte <- gsub(', dissolved', '', limits$analyte)
-  check <- read.csv('check.csv')
+  check <- read.csv('unitTests/check.csv')
   ans <- merge(check, limits, by = c('analyte', 'hardness', 'toxicity', 'table', 'dissolved'))
   checkEquals(ans$limit.x, ans$limit.y)
 }
