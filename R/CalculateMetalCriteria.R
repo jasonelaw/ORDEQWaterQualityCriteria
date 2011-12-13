@@ -11,7 +11,7 @@ function(hardness, analyte,
   analyte.constants <- subset(x = kHardnessConstants, subset = use.rows)
   i <- match(analyte, analyte.constants$analyte)
   expanded.analyte.constants <- analyte.constants[i,]
-  hardness <- pmin(400, pmax(25, hardness))
+  #hardness <- pmin(400, pmax(25, hardness))
   f <- function(hardness, m, b, cf.b, cf.m){
     correction.factor <- cf.b - log(hardness) * cf.m
     exp(m * log(hardness) + b) * correction.factor
