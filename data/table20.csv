@@ -1,0 +1,410 @@
+compound,,standard,unit,water,toxicity,type,priority_pollutant,carcinogen,loel,human_health_1e_6,pH_dependent,hardness_dependent,temp_dependent
+ACENAPTHENE,http://cactus.nci.nih.gov/chemical/structure/ACENAPTHENE/stdinchikey,1700,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ACROLEIN,http://cactus.nci.nih.gov/chemical/structure/ACROLEIN/stdinchikey,68,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ACRYLONITRILE,http://cactus.nci.nih.gov/chemical/structure/ACRYLONITRILE/stdinchikey,7550,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ALDRIN,http://cactus.nci.nih.gov/chemical/structure/ALDRIN/stdinchikey,3,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,ug / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ANTIMONY,http://cactus.nci.nih.gov/chemical/structure/ANTIMONY/stdinchikey,9000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (PENT),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (PENT)/stdinchikey,850,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (TRI),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (TRI)/stdinchikey,360,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+BENZENE,http://cactus.nci.nih.gov/chemical/structure/BENZENE/stdinchikey,5300,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+BENZIDINE,http://cactus.nci.nih.gov/chemical/structure/BENZIDINE/stdinchikey,2500,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+BERYLLIUM,http://cactus.nci.nih.gov/chemical/structure/BERYLLIUM/stdinchikey,130,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+BHC,http://cactus.nci.nih.gov/chemical/structure/BHC/stdinchikey,100,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CADMIUM,http://cactus.nci.nih.gov/chemical/structure/CADMIUM/stdinchikey,3.9,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+CARBON TETRACHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CARBON TETRACHLORIDE/stdinchikey,35200,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,2.4,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CHLORIDE/stdinchikey,860,mg / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED BENZENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED BENZENES/stdinchikey,250,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED NAPHTHALENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED NAPHTHALENES/stdinchikey,1600,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINE,http://cactus.nci.nih.gov/chemical/structure/CHLORINE/stdinchikey,19,ug / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROALKYL ETHERS,http://cactus.nci.nih.gov/chemical/structure/CHLOROALKYL ETHERS/stdinchikey,238000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLOROFORM,http://cactus.nci.nih.gov/chemical/structure/CHLOROFORM/stdinchikey,28900,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLOROPHENOL 2,http://cactus.nci.nih.gov/chemical/structure/CHLOROPHENOL 2/stdinchikey,4380,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORPYRIFOS,http://cactus.nci.nih.gov/chemical/structure/CHLORPYRIFOS/stdinchikey,0.083,ug / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORO-4 METHYL-3 PHENOL,http://cactus.nci.nih.gov/chemical/structure/CHLORO-4 METHYL-3 PHENOL/stdinchikey,30,ug / L,fresh,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (HEX),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (HEX)/stdinchikey,16,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (TRI),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (TRI)/stdinchikey,1700,ug / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+COPPER,http://cactus.nci.nih.gov/chemical/structure/COPPER/stdinchikey,18,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+CYANIDE,http://cactus.nci.nih.gov/chemical/structure/CYANIDE/stdinchikey,22,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,1.1,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+(DDE) DDT METABOLITE,http://cactus.nci.nih.gov/chemical/structure/(DDE) DDT METABOLITE/stdinchikey,1050,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+(TDE) DDT METABOLITE,http://cactus.nci.nih.gov/chemical/structure/(TDE) DDT METABOLITE/stdinchikey,0.06,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZENES/stdinchikey,1120,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DICHLOROETHANE 1,2","http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHANE 1,2/stdinchikey",118000,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROETHYLENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHYLENES/stdinchikey,11600,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DICHLOROPHENOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DICHLOROPHENOL 2,4/stdinchikey",2020,ug / L,fresh,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPANE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPANE/stdinchikey,23000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPENE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPENE/stdinchikey,6060,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,2.5,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DIMETHYL PHENOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DIMETHYL PHENOL 2,4/stdinchikey",2120,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,330,ug / L,fresh,acute,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DIOXIN (2,3,7,8-TCDD)","http://cactus.nci.nih.gov/chemical/structure/DIOXIN (2,3,7,8-TCDD)/stdinchikey",0.01,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DIPHENYLHYDRAZINE 1,2","http://cactus.nci.nih.gov/chemical/structure/DIPHENYLHYDRAZINE 1,2/stdinchikey",270,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,0.22,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,http://cactus.nci.nih.gov/chemical/structure/ENDRIN/stdinchikey,0.18,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ETHYLBENZENE,http://cactus.nci.nih.gov/chemical/structure/ETHYLBENZENE/stdinchikey,32000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+FLUORANTHENE,http://cactus.nci.nih.gov/chemical/structure/FLUORANTHENE/stdinchikey,3980,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+HALOETHERS,http://cactus.nci.nih.gov/chemical/structure/HALOETHERS/stdinchikey,360,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+HALOMETHANES,http://cactus.nci.nih.gov/chemical/structure/HALOMETHANES/stdinchikey,11000,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.52,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROETHANE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROETHANE/stdinchikey,980,ug / L,fresh,acute,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROBUTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBUTADIENE/stdinchikey,90,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE (LINDANE),http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE (LINDANE)/stdinchikey,2,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOPENTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOPENTADIENE/stdinchikey,7,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ISOPHORONE,http://cactus.nci.nih.gov/chemical/structure/ISOPHORONE/stdinchikey,117000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+LEAD,http://cactus.nci.nih.gov/chemical/structure/LEAD/stdinchikey,82,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+MERCURY,http://cactus.nci.nih.gov/chemical/structure/MERCURY/stdinchikey,2.4,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NAPHTHALENE,http://cactus.nci.nih.gov/chemical/structure/NAPHTHALENE/stdinchikey,2300,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,1400,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+NITROBENZENE,http://cactus.nci.nih.gov/chemical/structure/NITROBENZENE/stdinchikey,27000,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NITROPHENOLS,http://cactus.nci.nih.gov/chemical/structure/NITROPHENOLS/stdinchikey,230,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NITROSAMINES,http://cactus.nci.nih.gov/chemical/structure/NITROSAMINES/stdinchikey,5850,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+PARATHION,http://cactus.nci.nih.gov/chemical/structure/PARATHION/stdinchikey,0.065,ug / L,fresh,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,2,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PENTACHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/PENTACHLORINATED ETHANES/stdinchikey,7240,ug / L,fresh,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PENTACHLOROPHENOL,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROPHENOL/stdinchikey,20,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+PHENOL,http://cactus.nci.nih.gov/chemical/structure/PHENOL/stdinchikey,10200,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PHTHALATE ESTERS,http://cactus.nci.nih.gov/chemical/structure/PHTHALATE ESTERS/stdinchikey,940,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+SELENIUM,http://cactus.nci.nih.gov/chemical/structure/SELENIUM/stdinchikey,260,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SILVER,http://cactus.nci.nih.gov/chemical/structure/SILVER/stdinchikey,4.1,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+TETRACHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/TETRACHLORINATED ETHANES/stdinchikey,9320,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TETRACHLOROETHANES,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHANES/stdinchikey,9320,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,5280,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+THALLIUM,http://cactus.nci.nih.gov/chemical/structure/THALLIUM/stdinchikey,1400,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOLUENE,http://cactus.nci.nih.gov/chemical/structure/TOLUENE/stdinchikey,17500,ug / L,fresh,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.73,ug / L,fresh,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRICHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/TRICHLORINATED ETHANES/stdinchikey,18000,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRICHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHYLENE/stdinchikey,45000,ug / L,fresh,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ZINC,http://cactus.nci.nih.gov/chemical/structure/ZINC/stdinchikey,120,ug / L,fresh,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+ACENAPTHENE,http://cactus.nci.nih.gov/chemical/structure/ACENAPTHENE/stdinchikey,520,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ACROLEIN,http://cactus.nci.nih.gov/chemical/structure/ACROLEIN/stdinchikey,21,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ACRYLONITRILE,http://cactus.nci.nih.gov/chemical/structure/ACRYLONITRILE/stdinchikey,2600,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ALKALINITY,http://cactus.nci.nih.gov/chemical/structure/ALKALINITY/stdinchikey,20000,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ANTIMONY,http://cactus.nci.nih.gov/chemical/structure/ANTIMONY/stdinchikey,1600,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (PENT),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (PENT)/stdinchikey,48,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (TRI),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (TRI)/stdinchikey,190,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+BERYLLIUM,http://cactus.nci.nih.gov/chemical/structure/BERYLLIUM/stdinchikey,5.3,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CADMIUM,http://cactus.nci.nih.gov/chemical/structure/CADMIUM/stdinchikey,1.1,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+CARBON TETRACHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CARBON TETRACHLORIDE/stdinchikey,50000,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,0.0043,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CHLORIDE/stdinchikey,230,mg / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED BENZENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED BENZENES/stdinchikey,50,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINE,http://cactus.nci.nih.gov/chemical/structure/CHLORINE/stdinchikey,11,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROFORM,http://cactus.nci.nih.gov/chemical/structure/CHLOROFORM/stdinchikey,1240,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLOROPHENOL 2,http://cactus.nci.nih.gov/chemical/structure/CHLOROPHENOL 2/stdinchikey,2000,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORPYRIFOS,http://cactus.nci.nih.gov/chemical/structure/CHLORPYRIFOS/stdinchikey,0.041,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (HEX),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (HEX)/stdinchikey,11,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (TRI),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (TRI)/stdinchikey,210,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+COPPER,http://cactus.nci.nih.gov/chemical/structure/COPPER/stdinchikey,12,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+CYANIDE,http://cactus.nci.nih.gov/chemical/structure/CYANIDE/stdinchikey,5.2,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,0.001,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+DEMETON,http://cactus.nci.nih.gov/chemical/structure/DEMETON/stdinchikey,0.1,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZENES/stdinchikey,763,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DICHLOROETHANE 1,2","http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHANE 1,2/stdinchikey",20000,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DICHLOROPHENOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DICHLOROPHENOL 2,4/stdinchikey",365,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPANE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPANE/stdinchikey,5700,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPENE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPENE/stdinchikey,244,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,0.0019,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,230,ug / L,fresh,chronic,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DIOXIN (2,3,7,8-TCDD)","http://cactus.nci.nih.gov/chemical/structure/DIOXIN (2,3,7,8-TCDD)/stdinchikey",38,pg / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,0.056,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,http://cactus.nci.nih.gov/chemical/structure/ENDRIN/stdinchikey,0.0023,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+GUTHION,http://cactus.nci.nih.gov/chemical/structure/GUTHION/stdinchikey,0.01,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HALOETHERS,http://cactus.nci.nih.gov/chemical/structure/HALOETHERS/stdinchikey,122,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.0038,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROETHANE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROETHANE/stdinchikey,540,ug / L,fresh,chronic,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROBUTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBUTADIENE/stdinchikey,9.3,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE (LINDANE),http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE (LINDANE)/stdinchikey,0.08,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOPENTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOPENTADIENE/stdinchikey,5.2,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+IRON,http://cactus.nci.nih.gov/chemical/structure/IRON/stdinchikey,1000,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+LEAD,http://cactus.nci.nih.gov/chemical/structure/LEAD/stdinchikey,3.2,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+MALATHION,http://cactus.nci.nih.gov/chemical/structure/MALATHION/stdinchikey,0.1,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MERCURY,http://cactus.nci.nih.gov/chemical/structure/MERCURY/stdinchikey,0.012,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+METHOXYCHLOR,http://cactus.nci.nih.gov/chemical/structure/METHOXYCHLOR/stdinchikey,0.03,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MIREX,http://cactus.nci.nih.gov/chemical/structure/MIREX/stdinchikey,0.001,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NAPHTHALENE,http://cactus.nci.nih.gov/chemical/structure/NAPHTHALENE/stdinchikey,620,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,160,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+NITROPHENOLS,http://cactus.nci.nih.gov/chemical/structure/NITROPHENOLS/stdinchikey,150,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PARATHION,http://cactus.nci.nih.gov/chemical/structure/PARATHION/stdinchikey,0.013,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,0.014,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PENTACHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/PENTACHLORINATED ETHANES/stdinchikey,1100,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PENTACHLOROPHENOL,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROPHENOL/stdinchikey,13,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+PHENOL,http://cactus.nci.nih.gov/chemical/structure/PHENOL/stdinchikey,2560,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PHTHALATE ESTERS,http://cactus.nci.nih.gov/chemical/structure/PHTHALATE ESTERS/stdinchikey,3,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+SELENIUM,http://cactus.nci.nih.gov/chemical/structure/SELENIUM/stdinchikey,35,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SILVER,http://cactus.nci.nih.gov/chemical/structure/SILVER/stdinchikey,0.12,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SULFIDE HYDROGEN SULFIDE,http://cactus.nci.nih.gov/chemical/structure/SULFIDE HYDROGEN SULFIDE/stdinchikey,2,ug / L,fresh,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROETHANE 1,1,2,2","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHANE 1,1,2,2/stdinchikey",2400,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,840,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+THALLIUM,http://cactus.nci.nih.gov/chemical/structure/THALLIUM/stdinchikey,40,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.0002,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TRICHLOROETHANE 1,1,2","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHANE 1,1,2/stdinchikey",9400,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRICHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHYLENE/stdinchikey,21900,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"TRICHLOROPHENOL 2,4,6","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROPHENOL 2,4,6/stdinchikey",970,ug / L,fresh,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ZINC,http://cactus.nci.nih.gov/chemical/structure/ZINC/stdinchikey,110,ug / L,fresh,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+ACENAPTHENE,http://cactus.nci.nih.gov/chemical/structure/ACENAPTHENE/stdinchikey,970,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ACROLEIN,http://cactus.nci.nih.gov/chemical/structure/ACROLEIN/stdinchikey,55,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ALDRIN,http://cactus.nci.nih.gov/chemical/structure/ALDRIN/stdinchikey,1.3,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,ug / L,marine,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ARSENIC (PENT),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (PENT)/stdinchikey,2319,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (TRI),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (TRI)/stdinchikey,69,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+BENZENE,http://cactus.nci.nih.gov/chemical/structure/BENZENE/stdinchikey,5100,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+BHC,http://cactus.nci.nih.gov/chemical/structure/BHC/stdinchikey,0.34,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CADMIUM,http://cactus.nci.nih.gov/chemical/structure/CADMIUM/stdinchikey,43,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CARBON TETRACHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CARBON TETRACHLORIDE/stdinchikey,0.4,ug,marine,acute,aquatic life,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,0.09,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED BENZENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED BENZENES/stdinchikey,160,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED NAPHTHALENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED NAPHTHALENES/stdinchikey,7.5,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINE,http://cactus.nci.nih.gov/chemical/structure/CHLORINE/stdinchikey,13,ug / L,marine,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROPHENOL 4,http://cactus.nci.nih.gov/chemical/structure/CHLOROPHENOL 4/stdinchikey,29700,ug / L,marine,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORPYRIFOS,http://cactus.nci.nih.gov/chemical/structure/CHLORPYRIFOS/stdinchikey,0.011,ug / L,marine,acute,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (HEX),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (HEX)/stdinchikey,1100,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (TRI),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (TRI)/stdinchikey,10300,ug / L,marine,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+COPPER,http://cactus.nci.nih.gov/chemical/structure/COPPER/stdinchikey,2.9,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CYANIDE,http://cactus.nci.nih.gov/chemical/structure/CYANIDE/stdinchikey,1,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,0.13,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+(DDE) DDT METABOLITE,http://cactus.nci.nih.gov/chemical/structure/(DDE) DDT METABOLITE/stdinchikey,14,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+(TDE) DDT METABOLITE,http://cactus.nci.nih.gov/chemical/structure/(TDE) DDT METABOLITE/stdinchikey,3.6,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZENES/stdinchikey,1970,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"DICHLOROETHANE 1,2","http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHANE 1,2/stdinchikey",113000,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROETHYLENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHYLENES/stdinchikey,224,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPANE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPANE/stdinchikey,10300,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPENE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPENE/stdinchikey,790,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,0.71,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,590,ug / L,marine,acute,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,0.034,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,http://cactus.nci.nih.gov/chemical/structure/ENDRIN/stdinchikey,0.037,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ETHYLBENZENE,http://cactus.nci.nih.gov/chemical/structure/ETHYLBENZENE/stdinchikey,430,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+FLUORANTHENE,http://cactus.nci.nih.gov/chemical/structure/FLUORANTHENE/stdinchikey,40,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+HALOMETHANES,http://cactus.nci.nih.gov/chemical/structure/HALOMETHANES/stdinchikey,12000,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.053,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROETHANE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROETHANE/stdinchikey,940,ug / L,marine,acute,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROBUTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBUTADIENE/stdinchikey,32,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE (LINDANE),http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE (LINDANE)/stdinchikey,0.16,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOPENTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOPENTADIENE/stdinchikey,7,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+ISOPHORONE,http://cactus.nci.nih.gov/chemical/structure/ISOPHORONE/stdinchikey,12900,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+LEAD,http://cactus.nci.nih.gov/chemical/structure/LEAD/stdinchikey,140,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MERCURY,http://cactus.nci.nih.gov/chemical/structure/MERCURY/stdinchikey,2.1,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NAPHTHALENE,http://cactus.nci.nih.gov/chemical/structure/NAPHTHALENE/stdinchikey,2350,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,75,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITROBENZENE,http://cactus.nci.nih.gov/chemical/structure/NITROBENZENE/stdinchikey,6680,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NITROPHENOLS,http://cactus.nci.nih.gov/chemical/structure/NITROPHENOLS/stdinchikey,4850,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+NITROSAMINES,http://cactus.nci.nih.gov/chemical/structure/NITROSAMINES/stdinchikey,3300000,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,10,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PENTACHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/PENTACHLORINATED ETHANES/stdinchikey,390,ug / L,marine,acute,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PENTACHLOROPHENOL,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROPHENOL/stdinchikey,13,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PHENOL,http://cactus.nci.nih.gov/chemical/structure/PHENOL/stdinchikey,5800,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PHTHALATE ESTERS,http://cactus.nci.nih.gov/chemical/structure/PHTHALATE ESTERS/stdinchikey,2944,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+POLYNUCLEAR AROMATIC HYDROCARBONS,http://cactus.nci.nih.gov/chemical/structure/POLYNUCLEAR AROMATIC HYDROCARBONS/stdinchikey,300,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+SELENIUM,http://cactus.nci.nih.gov/chemical/structure/SELENIUM/stdinchikey,410,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SILVER,http://cactus.nci.nih.gov/chemical/structure/SILVER/stdinchikey,2.3,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROETHANE 1,1,2,2","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHANE 1,1,2,2/stdinchikey",9020,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,10200,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+THALLIUM,http://cactus.nci.nih.gov/chemical/structure/THALLIUM/stdinchikey,2130,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOLUENE,http://cactus.nci.nih.gov/chemical/structure/TOLUENE/stdinchikey,6300,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.21,ug / L,marine,acute,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TRICHLOROETHANE 1,1,1","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHANE 1,1,1/stdinchikey",312000,ug / L,marine,acute,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRICHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHYLENE/stdinchikey,2000,ug / L,marine,acute,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ZINC,http://cactus.nci.nih.gov/chemical/structure/ZINC/stdinchikey,95,ug / L,marine,acute,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ACENAPTHENE,http://cactus.nci.nih.gov/chemical/structure/ACENAPTHENE/stdinchikey,710,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ARSENIC (PENT),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (PENT)/stdinchikey,13,ug / L,marine,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ARSENIC (TRI),http://cactus.nci.nih.gov/chemical/structure/ARSENIC (TRI)/stdinchikey,36,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+BENZENE,http://cactus.nci.nih.gov/chemical/structure/BENZENE/stdinchikey,700,ug / L,marine,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CADMIUM,http://cactus.nci.nih.gov/chemical/structure/CADMIUM/stdinchikey,9.3,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CARBON TETRACHLORIDE,http://cactus.nci.nih.gov/chemical/structure/CARBON TETRACHLORIDE/stdinchikey,6.94,ug,marine,chronic,aquatic life,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,0.004,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORINATED BENZENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED BENZENES/stdinchikey,129,ug / L,marine,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+CHLORINE,http://cactus.nci.nih.gov/chemical/structure/CHLORINE/stdinchikey,7.5,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORPYRIFOS,http://cactus.nci.nih.gov/chemical/structure/CHLORPYRIFOS/stdinchikey,0.0056,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (HEX),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (HEX)/stdinchikey,50,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+COPPER,http://cactus.nci.nih.gov/chemical/structure/COPPER/stdinchikey,2.9,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CYANIDE,http://cactus.nci.nih.gov/chemical/structure/CYANIDE/stdinchikey,1,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,0.001,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+DEMETON,http://cactus.nci.nih.gov/chemical/structure/DEMETON/stdinchikey,0.1,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPANE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPANE/stdinchikey,3040,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,0.0019,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,370,ug / L,marine,chronic,aquatic life,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,0.0087,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,http://cactus.nci.nih.gov/chemical/structure/ENDRIN/stdinchikey,0.0023,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+FLUORANTHENE,http://cactus.nci.nih.gov/chemical/structure/FLUORANTHENE/stdinchikey,16,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+GUTHION,http://cactus.nci.nih.gov/chemical/structure/GUTHION/stdinchikey,0.01,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HALOMETHANES,http://cactus.nci.nih.gov/chemical/structure/HALOMETHANES/stdinchikey,6400,ug / L,marine,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.0036,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+LEAD,http://cactus.nci.nih.gov/chemical/structure/LEAD/stdinchikey,5.6,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MALATHION,http://cactus.nci.nih.gov/chemical/structure/MALATHION/stdinchikey,0.1,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MERCURY,http://cactus.nci.nih.gov/chemical/structure/MERCURY/stdinchikey,0.025,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+METHOXYCHLOR,http://cactus.nci.nih.gov/chemical/structure/METHOXYCHLOR/stdinchikey,0.03,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MIREX,http://cactus.nci.nih.gov/chemical/structure/MIREX/stdinchikey,0.001,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,8.3,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,0.03,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+PENTACHLORINATED ETHANES,http://cactus.nci.nih.gov/chemical/structure/PENTACHLORINATED ETHANES/stdinchikey,281,ug / L,marine,chronic,aquatic life,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PENTACHLOROPHENOL,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROPHENOL/stdinchikey,7.9,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+PHOSPHORUS ELEMENTAL,http://cactus.nci.nih.gov/chemical/structure/PHOSPHORUS ELEMENTAL/stdinchikey,0.1,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PHTHALATE ESTERS,http://cactus.nci.nih.gov/chemical/structure/PHTHALATE ESTERS/stdinchikey,3.4,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+SELENIUM,http://cactus.nci.nih.gov/chemical/structure/SELENIUM/stdinchikey,54,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SULFIDE HYDROGEN SULFIDE,http://cactus.nci.nih.gov/chemical/structure/SULFIDE HYDROGEN SULFIDE/stdinchikey,2,ug / L,marine,chronic,aquatic life,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,450,ug / L,marine,chronic,aquatic life,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROPHENOL 2,3,5,6","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROPHENOL 2,3,5,6/stdinchikey",440,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOLUENE,http://cactus.nci.nih.gov/chemical/structure/TOLUENE/stdinchikey,5000,ug / L,marine,chronic,aquatic life,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.0002,ug / L,marine,chronic,aquatic life,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+ZINC,http://cactus.nci.nih.gov/chemical/structure/ZINC/stdinchikey,86,ug / L,marine,chronic,aquatic life,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ACROLEIN,http://cactus.nci.nih.gov/chemical/structure/ACROLEIN/stdinchikey,320,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ACRYLONITRILE,http://cactus.nci.nih.gov/chemical/structure/ACRYLONITRILE/stdinchikey,0.058,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+ALDRIN,http://cactus.nci.nih.gov/chemical/structure/ALDRIN/stdinchikey,0.074,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ANTIMONY,http://cactus.nci.nih.gov/chemical/structure/ANTIMONY/stdinchikey,146,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ASBESTOS,http://cactus.nci.nih.gov/chemical/structure/ASBESTOS/stdinchikey,7.006,fibers / L,NA,water and fish,human health,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+BARIUM,http://cactus.nci.nih.gov/chemical/structure/BARIUM/stdinchikey,1,mg,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+BENZENE,http://cactus.nci.nih.gov/chemical/structure/BENZENE/stdinchikey,0.66,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+BENZIDINE,http://cactus.nci.nih.gov/chemical/structure/BENZIDINE/stdinchikey,0.12,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,0.46,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLORINATED BENZENES,http://cactus.nci.nih.gov/chemical/structure/CHLORINATED BENZENES/stdinchikey,488,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROETHYL ETHER (BIS-2),http://cactus.nci.nih.gov/chemical/structure/CHLOROETHYL ETHER (BIS-2)/stdinchikey,0.03,ub,NA,water and fish,human health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROFORM,http://cactus.nci.nih.gov/chemical/structure/CHLOROFORM/stdinchikey,0.19,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLOROISOPROPYL ETHER (BIS-2),http://cactus.nci.nih.gov/chemical/structure/CHLOROISOPROPYL ETHER (BIS-2)/stdinchikey,34.7,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROMETHYL ETHER (BIS),http://cactus.nci.nih.gov/chemical/structure/CHLOROMETHYL ETHER (BIS)/stdinchikey,0.00000376,ng,NA,water and fish,human health,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"CHLOROPHENOXY HERBICIDES (2,4,5,-TP)","http://cactus.nci.nih.gov/chemical/structure/CHLOROPHENOXY HERBICIDES (2,4,5,-TP)/stdinchikey",10,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"CHLOROPHENOXY HERBICIDES (2,4-D)","http://cactus.nci.nih.gov/chemical/structure/CHLOROPHENOXY HERBICIDES (2,4-D)/stdinchikey",100,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+COPPER,http://cactus.nci.nih.gov/chemical/structure/COPPER/stdinchikey,1300,,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CYANIDE,http://cactus.nci.nih.gov/chemical/structure/CYANIDE/stdinchikey,200,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,0.024,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIBUTYLPHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIBUTYLPHTHALATE/stdinchikey,35,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZENES/stdinchikey,400,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZIDINE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZIDINE/stdinchikey,0.01,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"DICHLOROETHANE 1,2","http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHANE 1,2/stdinchikey",0.94,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DICHLOROETHYLENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHYLENES/stdinchikey,0.033,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"DICHLOROPHENOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DICHLOROPHENOL 2,4/stdinchikey",3.09,mg,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROPROPENE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPENE/stdinchikey,87,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,0.071,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIETHYLPHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIETHYLPHTHALATE/stdinchikey,350,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DIMETHYL PHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIMETHYL PHTHALATE/stdinchikey,313,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DINITROTOLUENE 2,4","http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE 2,4/stdinchikey",0.11,ug,NA,water and fish,human health,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,70,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DINITRO-O-CRESOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DINITRO-O-CRESOL 2,4/stdinchikey",13.4,g,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DIOXIN (2,3,7,8-TCDD)","http://cactus.nci.nih.gov/chemical/structure/DIOXIN (2,3,7,8-TCDD)/stdinchikey",0.000013,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIPHENYLHYDRAZINE,http://cactus.nci.nih.gov/chemical/structure/DIPHENYLHYDRAZINE/stdinchikey,42,ng,NA,water and fish,human health,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+DI-2-ETHYLHEXYL PHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DI-2-ETHYLHEXYL PHTHALATE/stdinchikey,15,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,74,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,http://cactus.nci.nih.gov/chemical/structure/ENDRIN/stdinchikey,1,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ETHYLBENZENE,http://cactus.nci.nih.gov/chemical/structure/ETHYLBENZENE/stdinchikey,1.4,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+FLUORANTHENE,http://cactus.nci.nih.gov/chemical/structure/FLUORANTHENE/stdinchikey,42,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HALOMETHANES,http://cactus.nci.nih.gov/chemical/structure/HALOMETHANES/stdinchikey,0.19,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.28,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROETHANE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROETHANE/stdinchikey,1.9,ug,NA,water and fish,human health,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROBENZENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBENZENE/stdinchikey,0.72,ng,NA,water and fish,human health,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROBUTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBUTADIENE/stdinchikey,0.45,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-ALPHA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-ALPHA/stdinchikey,9.2,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-BETA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-BETA/stdinchikey,16.3,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-GAMA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-GAMA/stdinchikey,18.6,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-TECHNICAL,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-TECHNICAL/stdinchikey,12.3,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOPENTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOPENTADIENE/stdinchikey,206,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+IRON,http://cactus.nci.nih.gov/chemical/structure/IRON/stdinchikey,0.3,mg,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ISOPHORONE,http://cactus.nci.nih.gov/chemical/structure/ISOPHORONE/stdinchikey,5.2,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MANGANESE,http://cactus.nci.nih.gov/chemical/structure/MANGANESE/stdinchikey,50,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+METHOXYCHLOR,http://cactus.nci.nih.gov/chemical/structure/METHOXYCHLOR/stdinchikey,100,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MONOCHLOROBENZENE,http://cactus.nci.nih.gov/chemical/structure/MONOCHLOROBENZENE/stdinchikey,488,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,13.4,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITRATES,http://cactus.nci.nih.gov/chemical/structure/NITRATES/stdinchikey,10,mg,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITROBENZENE,http://cactus.nci.nih.gov/chemical/structure/NITROBENZENE/stdinchikey,19.8,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITROSAMINES,http://cactus.nci.nih.gov/chemical/structure/NITROSAMINES/stdinchikey,0.8,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIBUTYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIBUTYLAMINE N/stdinchikey,6.4,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIETHYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIETHYLAMINE N/stdinchikey,0.8,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIMETHYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIMETHYLAMINE N/stdinchikey,1.4,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIPHENYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIPHENYLAMINE N/stdinchikey,4900,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSOPYRROLIDINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSOPYRROLIDINE N/stdinchikey,16,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,0.079,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PENTACHLOROBENZENE,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROBENZENE/stdinchikey,74,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PENTACHLOROPHENOL,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROPHENOL/stdinchikey,1.01,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+PHENOL,http://cactus.nci.nih.gov/chemical/structure/PHENOL/stdinchikey,3.5,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+POLYNUCLEAR AROMATIC HYDROCARBONS,http://cactus.nci.nih.gov/chemical/structure/POLYNUCLEAR AROMATIC HYDROCARBONS/stdinchikey,2.8,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+SELENIUM,http://cactus.nci.nih.gov/chemical/structure/SELENIUM/stdinchikey,10,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROBENZENE 1,2,4,5","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROBENZENE 1,2,4,5/stdinchikey",38,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROETHANE 1,1,2,2","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHANE 1,1,2,2/stdinchikey",0.17,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,0.8,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+THALLIUM,http://cactus.nci.nih.gov/chemical/structure/THALLIUM/stdinchikey,13,ug,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TOLUENE,http://cactus.nci.nih.gov/chemical/structure/TOLUENE/stdinchikey,14.3,mg,NA,water and fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.71,ng,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TRICHLOROETHANE 1,1,2","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHANE 1,1,2/stdinchikey",0.6,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRICHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHYLENE/stdinchikey,2.7,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TRICHLOROPHENOL 2,4,5","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROPHENOL 2,4,5/stdinchikey",2600,ug,NA,water and fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TRICHLOROPHENOL 2,4,6","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROPHENOL 2,4,6/stdinchikey",1.2,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+VINYL CHLORIDE,http://cactus.nci.nih.gov/chemical/structure/VINYL CHLORIDE/stdinchikey,2,ug,NA,water and fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+ACROLEIN,http://cactus.nci.nih.gov/chemical/structure/ACROLEIN/stdinchikey,780,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ACRYLONITRILE,http://cactus.nci.nih.gov/chemical/structure/ACRYLONITRILE/stdinchikey,0.65,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+ALDRIN,http://cactus.nci.nih.gov/chemical/structure/ALDRIN/stdinchikey,0.079,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+AMMONIA,http://cactus.nci.nih.gov/chemical/structure/AMMONIA/stdinchikey,,,NA,fish,human health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+ANTIMONY,http://cactus.nci.nih.gov/chemical/structure/ANTIMONY/stdinchikey,45000,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+BENZENE,http://cactus.nci.nih.gov/chemical/structure/BENZENE/stdinchikey,40,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+BENZIDINE,http://cactus.nci.nih.gov/chemical/structure/BENZIDINE/stdinchikey,0.53,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLORDANE,http://cactus.nci.nih.gov/chemical/structure/CHLORDANE/stdinchikey,0.48,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLOROETHYL ETHER (BIS-2),http://cactus.nci.nih.gov/chemical/structure/CHLOROETHYL ETHER (BIS-2)/stdinchikey,1.36,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLOROFORM,http://cactus.nci.nih.gov/chemical/structure/CHLOROFORM/stdinchikey,15.7,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+CHLOROISOPROPYL ETHER (BIS-2),http://cactus.nci.nih.gov/chemical/structure/CHLOROISOPROPYL ETHER (BIS-2)/stdinchikey,4.36,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHLOROMETHYL ETHER (BIS),http://cactus.nci.nih.gov/chemical/structure/CHLOROMETHYL ETHER (BIS)/stdinchikey,0.00184,ug,NA,fish,human health,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DDT,http://cactus.nci.nih.gov/chemical/structure/DDT/stdinchikey,0.024,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIBUTYLPHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIBUTYLPHTHALATE/stdinchikey,154,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZENES/stdinchikey,2.6,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DICHLOROBENZIDINE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROBENZIDINE/stdinchikey,0.02,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"DICHLOROETHANE 1,2","http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHANE 1,2/stdinchikey",243,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DICHLOROETHYLENES,http://cactus.nci.nih.gov/chemical/structure/DICHLOROETHYLENES/stdinchikey,1.85,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DICHLOROPROPENE,http://cactus.nci.nih.gov/chemical/structure/DICHLOROPROPENE/stdinchikey,14.1,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DIELDRIN,http://cactus.nci.nih.gov/chemical/structure/DIELDRIN/stdinchikey,0.076,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIETHYLPHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIETHYLPHTHALATE/stdinchikey,1.8,g,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+DIMETHYL PHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DIMETHYL PHTHALATE/stdinchikey,2.9,g,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DINITROTOLUENE 2,4","http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE 2,4/stdinchikey",9.1,ug,NA,fish,human health,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DINITROTOLUENE,http://cactus.nci.nih.gov/chemical/structure/DINITROTOLUENE/stdinchikey,14.3,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DINITRO-O-CRESOL 2,4","http://cactus.nci.nih.gov/chemical/structure/DINITRO-O-CRESOL 2,4/stdinchikey",765,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"DIOXIN (2,3,7,8-TCDD)","http://cactus.nci.nih.gov/chemical/structure/DIOXIN (2,3,7,8-TCDD)/stdinchikey",0.000014,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+DIPHENYLHYDRAZINE,http://cactus.nci.nih.gov/chemical/structure/DIPHENYLHYDRAZINE/stdinchikey,0.56,ug,NA,fish,human health,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+DI-2-ETHYLHEXYL PHTHALATE,http://cactus.nci.nih.gov/chemical/structure/DI-2-ETHYLHEXYL PHTHALATE/stdinchikey,50,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDOSULFAN,http://cactus.nci.nih.gov/chemical/structure/ENDOSULFAN/stdinchikey,159,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ETHYLBENZENE,http://cactus.nci.nih.gov/chemical/structure/ETHYLBENZENE/stdinchikey,3.28,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+FLUORANTHENE,http://cactus.nci.nih.gov/chemical/structure/FLUORANTHENE/stdinchikey,54,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HALOMETHANES,http://cactus.nci.nih.gov/chemical/structure/HALOMETHANES/stdinchikey,15.7,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEPTACHLOR,http://cactus.nci.nih.gov/chemical/structure/HEPTACHLOR/stdinchikey,0.29,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROETHANE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROETHANE/stdinchikey,8.74,ug,NA,fish,human health,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROBENZENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBENZENE/stdinchikey,0.74,ng,NA,fish,human health,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROBUTADIENE,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROBUTADIENE/stdinchikey,50,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-ALPHA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-ALPHA/stdinchikey,31,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-BETA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-BETA/stdinchikey,54.7,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-GAMA,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-GAMA/stdinchikey,62.5,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE-TECHNICAL,http://cactus.nci.nih.gov/chemical/structure/HEXACHLOROCYCLOHEXANE-TECHNICAL/stdinchikey,41.4,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+ISOPHORONE,http://cactus.nci.nih.gov/chemical/structure/ISOPHORONE/stdinchikey,520,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MANGANESE,http://cactus.nci.nih.gov/chemical/structure/MANGANESE/stdinchikey,100,ug,NA,fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NICKEL,http://cactus.nci.nih.gov/chemical/structure/NICKEL/stdinchikey,100,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITROSAMINES,http://cactus.nci.nih.gov/chemical/structure/NITROSAMINES/stdinchikey,1240,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIBUTYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIBUTYLAMINE N/stdinchikey,587,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIETHYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIETHYLAMINE N/stdinchikey,1240,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIMETHYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIMETHYLAMINE N/stdinchikey,16000,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSODIPHENYLAMINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSODIPHENYLAMINE N/stdinchikey,16100,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+NITROSOPYRROLIDINE N,http://cactus.nci.nih.gov/chemical/structure/NITROSOPYRROLIDINE N/stdinchikey,91900,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PCB's,http://cactus.nci.nih.gov/chemical/structure/PCB's/stdinchikey,0.079,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+PENTACHLOROBENZENE,http://cactus.nci.nih.gov/chemical/structure/PENTACHLOROBENZENE/stdinchikey,85,ug,NA,fish,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+POLYNUCLEAR AROMATIC HYDROCARBONS,http://cactus.nci.nih.gov/chemical/structure/POLYNUCLEAR AROMATIC HYDROCARBONS/stdinchikey,31.1,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TETRACHLOROBENZENE 1,2,4,5","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROBENZENE 1,2,4,5/stdinchikey",48,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"TETRACHLOROETHANE 1,1,2,2","http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHANE 1,1,2,2/stdinchikey",10.7,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+TETRACHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TETRACHLOROETHYLENE/stdinchikey,8.85,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+THALLIUM,http://cactus.nci.nih.gov/chemical/structure/THALLIUM/stdinchikey,48,ug,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TOLUENE,http://cactus.nci.nih.gov/chemical/structure/TOLUENE/stdinchikey,424,mg,NA,fish,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,http://cactus.nci.nih.gov/chemical/structure/TOXAPHENE/stdinchikey,0.73,ng,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TRICHLOROETHANE 1,1,2","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHANE 1,1,2/stdinchikey",41.8,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRICHLOROETHYLENE,http://cactus.nci.nih.gov/chemical/structure/TRICHLOROETHYLENE/stdinchikey,80.7,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TRICHLOROPHENOL 2,4,6","http://cactus.nci.nih.gov/chemical/structure/TRICHLOROPHENOL 2,4,6/stdinchikey",3.6,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+VINYL CHLORIDE,InChIKey=BZHJMEDXRYGGRV-UHFFFAOYSA-N,525,ug,NA,fish,human health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+AMMONIA,InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N,,,drinking,water,human health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+BARIUM,InChIKey=MUBOSUMMMUSVEO-UHFFFAOYSA-N,1,mg,drinking,water,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CADMIUM,InChIKey=BDOSMKKIYDKNTQ-UHFFFAOYSA-N,0.01,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (HEX),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (HEX)/stdinchikey,0.05,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+CHROMIUM (TRI),http://cactus.nci.nih.gov/chemical/structure/CHROMIUM (TRI)/stdinchikey,0.05,mg,drinking,water,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ENDRIN,InChIKey=DFBKLUNHFCTMDC-UHFFFAOYSA-N,0.0002,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HEXACHLOROCYCLOHEXANE (LINDANE),InChIKey=JCMKNCBLXDQLEA-UHFFFAOYSA-N,0.004,mg,drinking,water,human health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+LEAD,InChIKey=XRCKXJLUPOKIPF-UHFFFAOYSA-N,0.05,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+MERCURY,InChIKey=QSHDDOUJBYECFT-UHFFFAOYSA-N,0.002,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+METHOXYCHLOR,InChIKey=IAKOZHOLGAGEJT-UHFFFAOYSA-N,0.1,mg,drinking,water,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+NITRATES,http://cactus.nci.nih.gov/chemical/structure/NITRATES/stdinchikey,10,mg,drinking,water,human health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SELENIUM,InChIKey=SPVXKVOXSXTJOY-UHFFFAOYSA-N,0.01,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+SILVER,InChIKey=BQCADISMDOOEFD-UHFFFAOYSA-N,0.05,mg,drinking,water,human health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TOXAPHENE,InChIKey=OEJNXTAZZBRGDN-UHFFFAOYSA-N,0.005,mg,drinking,water,human health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
