@@ -16,11 +16,12 @@ formatForBLM <- function(location, sample, analyte, result, ecoregion = 'Willame
   x <- data.frame(location, sample, analyte, result, ecoregion, stringsAsFactors = FALSE)
   x <- x[!is.na(analyte), ]
   ret <- tidyr::pivot_wider(
-    data        = x, 
-    id_cols     = c("ecoregion", "location", "sample"), 
-    names_from  = "analyte", 
-    values_from = "result",
-    names_sort  = TRUE
+    data         = x, 
+    id_cols      = c("ecoregion", "location", "sample"), 
+    names_from   = "analyte", 
+    values_from  = "result",
+    names_sort   = TRUE,
+    names_expand = TRUE
   )
   #ret <- reshape2::melt(x, measure.vars = 'result')
   #ret <- reshape2::dcast(ret, formula = location + sample + ecoregion ~ analyte, drop = FALSE)
@@ -40,33 +41,48 @@ formatForBLM <- function(location, sample, analyte, result, ecoregion = 'Willame
 #'@param HA a default value for humic acid
 #'@param S a default value for sulfide ion
 #'@export
-imputeBLM <- function(x, HA = 10, S = 1e-6){
-  k <- !is.na(kBLMParams$a)
-  a <- setNames(kBLMParams$a[k], kBLMParams$analyte[k])
-  b <- setNames(kBLMParams$b[k], kBLMParams$analyte[k])
-  # a%o%x + b
-  f <- function(x, a, b) exp(sweep(log(x) %o% a, 2, -b))
-  i <- names(a)
-  j <- is.na(x[,i])
-  if(any(j)){
-    x[,i][j] <- f(x$Cond, a, b)[j]
-  } 
-  x$S[is.na(x$S)]     <- S
-  x$HA[is.na(x$HA)]   <- HA
-  x$DOC[is.na(x$DOC)] <- 0.83 * x$TOC[is.na(x$DOC)]
-  #Impute regional defaults!
-  x
+imputeBLM <- function(x, HA = 10, S = 1e-6) {
+  f <- function(x, cond){
+    i <- match(cur_column(), kBLMParams$analyte)
+    a <- kBLMParams$a[i]
+    b <- kBLMParams$b[i]
+    if_else(is.na(x), exp(log(cond) * a + b), x)
+  }
+  
+  x |>
+    mutate(
+      HA = replace_na(HA, 10),
+      S  = replace_na(S, 1e-6),
+      across(Ca:Alk, ~ f(.x, Cond))
+    )
 }
-
-imputeBLM2 <- function(x, HA = 10, S = 1e-6) {
-  par <- kBLMParams |> 
-    dplyr::filter(!is.na(a)) |> 
-    dplyr::select(analyte, a, b) |> 
-    tibble::column_to_rownames("analyte")
-  f <- function(x, par) exp(sweep(log(x) %o% par$a, 2, -par$b))
-  cols <- rownames(par)
-  x[,cols] <- coalesce(x[, cols], f())
-}
+# imputeBLM <- function(x, HA = 10, S = 1e-6){
+#   k <- !is.na(kBLMParams$a)
+#   a <- setNames(kBLMParams$a[k], kBLMParams$analyte[k])
+#   b <- setNames(kBLMParams$b[k], kBLMParams$analyte[k])
+#   # a%o%x + b
+#   f <- function(x, a, b) exp(sweep(log(x) %o% a, 2, -b))
+#   i <- names(a)
+#   j <- is.na(x[,i])
+#   if(any(j)){
+#     x[,i][j] <- f(x$Cond, a, b)[j]
+#   } 
+#   x$S[is.na(x$S)]     <- S
+#   x$HA[is.na(x$HA)]   <- HA
+#   x$DOC[is.na(x$DOC)] <- 0.83 * x$TOC[is.na(x$DOC)]
+#   #Impute regional defaults!
+#   x
+# }
+# 
+# imputeBLM2 <- function(x, HA = 10, S = 1e-6) {
+#   par <- kBLMParams |> 
+#     dplyr::filter(!is.na(a)) |> 
+#     dplyr::select(analyte, a, b) |> 
+#     tibble::column_to_rownames("analyte")
+#   f <- function(x, par) exp(sweep(log(x) %o% par$a, 2, -par$b))
+#   cols <- rownames(par)
+#   x[,cols] <- coalesce(x[, cols], f())
+# }
 
 getBLMData <- function(){
   map <- getOption('blm.analyte.map')
