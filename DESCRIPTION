@@ -7,8 +7,8 @@ Date: 2015-03-18
 Author: Jason Law
 Maintainer: Jason Law <jason.law@portlandoregon.gov>
 Description: Functions for calculating Oregon Department of Environmental Quality Water Quality Criteria.  Includes both hardness dependent metal criteria and ammonia criteria.
-License: GPL3
+License: MIT + file LICENSE
 LazyLoad: yes
-RoxygenNote: 7.2.0
 Imports: 
     tidyr
+Config/roxygen2/version: 8.1.1
