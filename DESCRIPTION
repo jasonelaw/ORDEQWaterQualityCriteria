@@ -2,7 +2,7 @@ Package: ORDEQWaterQualityCriteria
 Type: Package
 Title: Functions for calculating Oregon Department of Environmental Quality
     Water Quality Criteria
-Version: 0.3
+Version: 0.3.1
 Date: 2015-03-18
 Author: Jason Law
 Maintainer: Jason Law <jason.law@portlandoregon.gov>
