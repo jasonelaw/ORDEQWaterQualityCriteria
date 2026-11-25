@@ -11,10 +11,10 @@ nh4Criteria(pH, Cel, toxicity = c("chronic", "acute"), salmonids = FALSE)
 
 \item{Cel}{a water temperature in degrees Celsius}
 
-\item{toxicity}{the type of criteria, \code{toxicity = 'acute'} 
+\item{toxicity}{the type of criteria, \code{toxicity = 'acute'}
 gives the acute criteria (CMC) while \code{toxicity = 'chronic'} gives the chronic criteria (CCC)}
 
-\item{salmonids}{logical, whether the criteria should be for streams with salmonid 
+\item{salmonids}{logical, whether the criteria should be for streams with salmonid
 beneficial use (Table 30A). The default is \code{FALSE}. Ignored when \code{toxicity = 'chronic'}.}
 }
 \value{
@@ -22,7 +22,7 @@ a numeric vector of water quality criteria
 }
 \description{
 This function calculates the Oregon DEQ pH and temperature dependent
-ammonia criteria. Tables of values and formulas can be found at 
+ammonia criteria. Tables of values and formulas can be found at
 \url{http://www.deq.state.or.us/wq/standards/docs/tables303140.pdf}.
 }
 \details{
